@@ -1,4 +1,3 @@
-# gitLearning
 # My name is Misha
 
 1. email: misha-dudko@mail.ru
@@ -6,34 +5,39 @@
 
 ## Common information
 ---
-***Good^34^***
-**Bad^20^**
-1. Список[^1]
-2. sdfsfs
-    2.1 Вложенный список
-    2.2 dsffsd
-        2.2.1 fwewf
-        2.2.2 sfdsfsd
+***Bold_Italic***<br>
+**Bold**<br>
+*Italic*
+## Список
+1. Пункт
+2. Пункт
+3. Вложенный список
+    1. Пункт
+    2. Пункт
+    3. Тройная вложенность
+        1. Пункт
 ---
-* trdfd
-    * dsfsffs
-        * ffs
-        * ***dsfsf***
-            * fdsfsd
-                * sfd
-1. ffsfs
-2. dsfsf
-3. dsfdfs
-4. fdssfsdf
-```
-Hello oformlenie
-```
-1.      dfs sdf sdfjl safjk lsadfl sdafl; 
-[hello world](https://google.com)
+<a id="jakor">Jakor</a>
+* List
+    * 1 element
+        * 2 element
+        * 3 element
+            * 4 element
 
-Столбец1 | Столбец2
-:--------|:--------
-Текст1|Текст2|
-Текст3|Текст4
+```
+Marked area
+```
+    Sample text 
+[Gogle.com](https://google.com)
 
-[^1]: Обыкновенный текст
+## Таблица
+Столбец1 | Столбец2 | Столбец3
+:--------|:--------:| -------:
+Текст1|Текст2|Текст3
+Текст4|Текст5|Текст6
+
+> Текст
+>> Вложенный тектс<br>
+>> Ещё текст<br>
+
+[Sample Text](#jakor)
