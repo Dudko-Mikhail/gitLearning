@@ -46,8 +46,4 @@ Marked area
 
 [Привет][1]
 
-[Сноска][2]
-
-
 [1]: (https://google.com)
-[2]: (#jakor)
